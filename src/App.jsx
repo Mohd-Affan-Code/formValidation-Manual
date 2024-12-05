@@ -1,10 +1,10 @@
 import React from "react";
-import ValidForm from "./components/ValidForm.jsx";
+import RandomQ from "./components/RandomQ";
 
 const App = () => {
   return (
     <div>
-      <ValidForm />
+      <RandomQ />
     </div>
   );
 };
